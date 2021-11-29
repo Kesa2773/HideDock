@@ -1,0 +1,9 @@
+Package: com.kasper.hidedock
+Name: HideDock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: enjoy bro)
+Maintainer: Artem Kasper
+Author: Artem Kasper
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
